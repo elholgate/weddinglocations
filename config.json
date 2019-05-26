@@ -27,7 +27,7 @@
     {
       "id": "locations",
       "fields": {
-        "name": "String location name"
+        "id": "String location name"
       },
       "minzoom": 0,
       "maxzoom": 24
