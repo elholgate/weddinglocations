@@ -1,6 +1,6 @@
 {
   "id": "locations",
-  "name": "locations",
+  "name": "Wedding locations",
   "description": "Wedding map locations",
   "minzoom": 0,
   "maxzoom": 24,
@@ -21,11 +21,11 @@
   "format": "pbf",
   "mapbox_logo": false,
   "tiles": [
-    "https://elholgate.github.io/TheRatcliffes/tile/0/0/0.pbf"
+    "https://elholgate.github.io/TheRatcliffes/tile/{z}/{x}/{y}.pbf"
   ],
   "vector_layers": [
     {
-      "id": "wedding_loc",
+      "id": "locations",
       "fields": {
         "name": "String location name"
       },
