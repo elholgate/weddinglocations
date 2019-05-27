@@ -7,15 +7,15 @@
       "geometry" : {
         "type" : "Point",
         "coordinates" : [
-          -1.4634457,
-          53.1004802
+          -1.461955,
+          53.100530
         ]
       },
       "properties" : {
         "OBJECTID" : 1,
         "id" : "Venue",
-        "latitude" : 53.1004802,
-        "longitude" : -1.4634457
+        "latitude" : 53.100530,
+        "longitude" : -1.461955
       }
     }
   ]
