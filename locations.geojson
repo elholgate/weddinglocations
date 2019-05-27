@@ -1,0 +1,107 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -1.7756749999999784,
+          53.345286000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "id" : "Engagement",
+        "latitude" : 53.345286000000002,
+        "longitude" : -1.7756749999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -1.4619329999999309,
+          53.100704000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "id" : "Venue",
+        "latitude" : 53.100704,
+        "longitude" : -1.4619329999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -1.3947419999999511,
+          53.087509000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "id" : "Travelodge Alfreton",
+        "latitude" : 53.087508999999997,
+        "longitude" : -1.3947419999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -1.3991019999999708,
+          53.055862000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 4,
+        "id" : "Premier Inn Ripley",
+        "latitude" : 53.055861999999998,
+        "longitude" : -1.3991020000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -1.3237909999999715,
+          53.10355700000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 5,
+        "id" : "Holiday Inn South Normanton",
+        "latitude" : 53.103557000000002,
+        "longitude" : -1.3237909999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -1.3211209999999483,
+          53.104613000000029
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 6,
+        "id" : "Premier Inn Mansfield",
+        "latitude" : 53.104613000000001,
+        "longitude" : -1.321121
+      }
+    }
+  ]
+}
