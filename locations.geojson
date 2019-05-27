@@ -13,7 +13,7 @@
       },
       "properties" : {
         "OBJECTID" : 1,
-        "id" : "Engagement",
+        "id" : "Us",
         "latitude" : 53.345286000000002,
         "longitude" : -1.7756749999999999
       }
@@ -30,7 +30,7 @@
       },
       "properties" : {
         "OBJECTID" : 2,
-        "id" : "Venue",
+        "id" : "The venue",
         "latitude" : 53.100704,
         "longitude" : -1.4619329999999999
       }
@@ -84,23 +84,7 @@
         "id" : "Holiday Inn South Normanton",
         "latitude" : 53.103557000000002,
         "longitude" : -1.3237909999999999
-      }
-    },
-    {
-      "type" : "Feature",
-      "id" : 6,
-      "geometry" : {
-        "type" : "Point",
-        "coordinates" : [
-          -1.3211209999999483,
-          53.104613000000029
-        ]
-      },
-      "properties" : {
-        "OBJECTID" : 6,
-        "id" : "Premier Inn Mansfield",
-        "latitude" : 53.104613000000001,
-        "longitude" : -1.321121
+
       }
     }
   ]
