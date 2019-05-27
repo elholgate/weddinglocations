@@ -1,0 +1,22 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -1.7756749999999784,
+          53.345286000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "id" : "Engagement",
+        "latitude" : 53.345286000000002,
+        "longitude" : -1.7756749999999999
+      }
+    }
+  ]
+}

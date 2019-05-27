@@ -1,0 +1,51 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "OBJECTID" : "OBJECTID",
+    "id" : "id",
+    "latitude" : "latitude",
+    "longitude" : "longitude"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 4326,
+    "latestWkid" : 4326
+  },
+  "fields" : [
+    {
+      "name" : "OBJECTID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "OBJECTID"
+    },
+    {
+      "name" : "id",
+      "type" : "esriFieldTypeString",
+      "alias" : "id",
+      "length" : 8000
+    },
+    {
+      "name" : "latitude",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "latitude"
+    },
+    {
+      "name" : "longitude",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "longitude"
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "OBJECTID" : 1,
+        "id" : "Engagement",
+        "latitude" : 53.345286000000002,
+        "longitude" : -1.7756749999999999
+      },
+      "geometry" : {
+        "x" : -1.7756749999999784,
+        "y" : 53.345286000000044
+      }
+    }
+  ]
+}
