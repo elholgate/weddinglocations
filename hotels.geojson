@@ -1,0 +1,56 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -1.3950005999999462,
+          53.087381500000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "id" : "Travelodge Alfreton",
+        "latitude" : 53.087381499999999,
+        "longitude" : -1.3950005999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -1.4951386999999272,
+          53.085986600000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "id" : "Premier Inn Ripley",
+        "latitude" : 53.085986599999998,
+        "longitude" : -1.4951387
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -1.3584702999999649,
+          53.103613400000029
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "id" : "Holiday Inn South Normanton",
+        "latitude" : 53.1036134,
+        "longitude" : -1.3584703
+      }
+    }
+  ]
+}
